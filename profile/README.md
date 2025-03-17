@@ -41,11 +41,13 @@
 ![git](https://github.com/user-attachments/assets/7bce3a42-9d4b-49e2-9b78-7ee1ef25304b)
 ### UI Prototype
 ![UIPrototype](https://github.com/user-attachments/assets/4afaf789-5030-4fbc-b7de-599ca482113f)
-## 시스템 아키텍쳐
+## 아키텍쳐
 - Monolithic:
   ![시스템 아키텍쳐 Monolithic](https://github.com/user-attachments/assets/f841efb8-d442-4569-820f-9515bc229296)
 - MicroService:
   ![시스템 아키텍쳐 MicroService](https://github.com/user-attachments/assets/179966bd-dda6-4bd2-9f14-748e0843f0b5)
+- CI / CD
+  ![CI/CD](https://github.com/user-attachments/assets/13d53114-0cd0-4f25-bbb3-e053f38440ef)
 ## 프로젝트 기능 및 구조 (MSA)
 ### API Gateway (포트: 8001)
 - 모든 요청의 진입점 역할
@@ -74,3 +76,5 @@
 ### 보호소 서비스 (포트: 8105)
 - 동물 보호소 정보 관리 및 제공
 - 공공 API 데이터 활용
+## 개요 및 기능 소개 영상
+[![여기있개](http://img.youtube.com/vi/qLp-Dzk-xes/0.jpg)]
